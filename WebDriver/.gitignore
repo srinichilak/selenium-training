@@ -1,0 +1,6 @@
+/.classpath
+/target
+/test-output
+/*.exe
+/.project
+/.settings
